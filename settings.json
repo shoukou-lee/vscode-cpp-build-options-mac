@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "utility": "cpp",
+        "__bit_reference": "cpp",
+        "algorithm": "cpp",
+        "queue": "cpp",
+        "tuple": "cpp",
+        "iosfwd": "cpp",
+        "__tree": "cpp",
+        "bitset": "cpp",
+        "set": "cpp",
+        "chrono": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "string": "cpp"
+    }
+}
